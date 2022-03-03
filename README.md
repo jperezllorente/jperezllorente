@@ -1,9 +1,6 @@
 ### Hi there 👋 
 
 
-
-Here are some ideas to get you started:
-
 My name is Juan, and I'm working towards becoming a Data Analyst after studying a double degree in Business Administration and International Relations at Universidad Pontificia Comillas - ICADE. I'm currrently working at Jobandtalent, one of Spain's fastest growing startups, as a Finance Operations Analyst. I'm looking for the opportunity to develop my professional career as a Data Analyst, using especially Python and SQL. I'm especially interested in cleaning and transforming data to later analyze and extract insightful conclusions that can help a company improve its business. 
 
 I started this journey in October 2020 when I enrolled in Ironhack's bootcamp on Data Analytics, and even though I haven't been working professionally with Python, I have kept developing my own projects to keep polishing the skils I acquired during the bootcamp. Of all the projects I have done so far, I'm especially proud of the following: 
